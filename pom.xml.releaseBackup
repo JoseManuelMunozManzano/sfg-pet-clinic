@@ -5,7 +5,7 @@
 
 	<groupId>com.neimerc</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.1.-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<modules>
 		<module>pet-clinic-data</module>
@@ -30,7 +30,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/JoseManuelMunozManzano/sfg-pet-clinic.git</developerConnection>
-	</scm>
+  	</scm>
 
 	<build>
 		<plugins>
