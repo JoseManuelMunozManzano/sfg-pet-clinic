@@ -1,4 +1,4 @@
 package com.neimerc.sfgpetclinic.model;
 
-public class Owner extends Person {
+public class Vet extends Person {
 }
