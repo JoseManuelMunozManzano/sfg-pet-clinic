@@ -29,6 +29,11 @@
 		<java.version>11</java.version>
 	</properties>
 
+	<scm>
+		<connection>scm:svn:https://host:port/abc/xyz/trunk</connection>
+		<developerConnection>scm:svn:https://host:port/abc/xyz/trunk</developerConnection>
+	</scm>
+
 	<build>
 		<plugins>
 			<plugin>
